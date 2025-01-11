@@ -1,0 +1,4 @@
+[1] "=== ANALYSIS LOG ==="
+[1] "Analysis completed: 2025-01-02 02:25:47.072864"
+[1] "Data file used: H:/assisgnment/hertfordshire assignment/Basha Team/team 81 link/Dataset/est13_16us/est16us.csv"
+[1] "Visualization saved: H:/assisgnment/hertfordshire assignment/Basha Team/team 81 link/Dataset/est13_16us/poverty_comparison.png"
